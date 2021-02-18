@@ -1,2 +1,2 @@
 # Railway_reservation
-source code is only compiled and executed on Turbo C++
+source code is only to be compiled and executed on Turbo C++
